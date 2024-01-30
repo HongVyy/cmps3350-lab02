@@ -1,6 +1,6 @@
 // vohongvyle_201134354
-// CMPS 3350 - lab 02 is all about source control
-// Prints each command-line argument passed into the program, one per line
+// CMPS 3350 - lab 02 is all about source control AND git
+
 #include <stdio.h>
 
 int main(int argc, char ** argv){
